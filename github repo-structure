@@ -1,0 +1,9 @@
+secure-code-review/
+ ├── app.py
+ ├── requirements.txt
+ ├── README.md
+ ├── semgrep-rules/
+ │    └── custom-rule.yml
+ └── .github/
+      └── workflows/
+           └── scan.yml
