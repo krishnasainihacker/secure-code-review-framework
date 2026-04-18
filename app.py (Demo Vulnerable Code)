@@ -1,0 +1,7 @@
+# app.py
+
+password = "123456"  # hardcoded password (vulnerability)
+
+def login():
+    user = input("Enter user: ")
+    print("Welcome " + user)
